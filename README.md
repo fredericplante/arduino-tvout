@@ -19,4 +19,5 @@ YNC is on OCR1A and AUDIO is on OC2A
 |AT90USB1286        |  B5  |  F7   |  B4   |
 --------------------------------------------
 
+
 There are some timing issues with the m1284p, may be related to sanguino core.
