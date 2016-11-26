@@ -37,7 +37,7 @@ rossumur's Arduinocade: https://github.com/rossumur/Arduinocade
 <img src="https://raw.githubusercontent.com/rossumur/Arduinocade/master/sim/docs/arduinocade_fritz_pro.png" width="50%"/>
 
 
-You can add your design here if you also have a disign for the TVout project.
+Feel free to add your design(picture and link) here if you also have an interesting design for the TVout project.
 
 
 Wiki needs to be done!
