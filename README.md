@@ -38,11 +38,16 @@ rossumur's Arduinocade: https://github.com/rossumur/Arduinocade
 <img src="https://raw.githubusercontent.com/rossumur/Arduinocade/master/sim/docs/arduinocade_fritz_pro.png" width="50%"/>
 
 
-Feel free to add your design(picture and link) here if you also have an interesting design for the TVout project.
 
 **Other GIT holding the TVout project**
 
 Avamander: https://github.com/Avamander/arduino-tvout
+
+**Article touching the TVout project**
+
+Paul Scott on hackster.io https://www.hackster.io/paulscott56/arduino-tv-out-cable-64de69
+
+Feel free to add your design(picture and link) here if you also have an interesting design for the TVout project.
 
 ##Examples
 
