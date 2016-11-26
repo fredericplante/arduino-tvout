@@ -32,7 +32,7 @@ nootropic design, the Video Experimenter: http://nootropicdesign.com/ve/
 
 <img src="http://nootropicdesign.com/ve/images/videoExperimenter_01_320x240.jpg" width="50%"/>
 
-This module will also do VideoIN fuction in low resolution 1 bit color. Note that it will not work on Arduino Mega256
+This module will also do VideoIN function, in low resolution 1 bit color. Note that it will not work on Arduino Mega256
 
 **Related project that are not powered by the TVout library**
 
