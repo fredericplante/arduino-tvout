@@ -9,3 +9,6 @@ from code.google.com/p/arduino-tvout��
 
 
 There are some timing issues with the m1284p, may be related to sanguino core.
+
+
+Wiki needs to be done!
