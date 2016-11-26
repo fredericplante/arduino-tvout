@@ -60,5 +60,5 @@ https://youtu.be/MEg_V4YZDh0
 
 https://youtu.be/bHpFv_x_8Kk
 
-Wiki needs to be formated Github way: https://github.com/fredericplante/arduino-tvout/tree/wiki
+**WIKI** can be reach from here: https://github.com/fredericplante/arduino-tvout/blob/wiki/TableOfContents.md
 <EOF>
