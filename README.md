@@ -26,17 +26,19 @@ nootropic design, the hackvision: http://nootropicdesign.com/hackvision/
 
 <img src="http://nootropicdesign.com/hackvision/images/hackvision_02_320x240.jpg" width="50%"/>
 
+This module use it's own ATMEGA328.
 
 nootropic design, the Video Experimenter: http://nootropicdesign.com/ve/
 
 <img src="http://nootropicdesign.com/ve/images/videoExperimenter_01_320x240.jpg" width="50%"/>
+
+This module will also do VideoIN fuction in low resolution 1 bit color. Note that it will not work on Arduino Mega256
 
 **Related project that are not powered by the TVout library**
 
 rossumur's Arduinocade: https://github.com/rossumur/Arduinocade 
 
 <img src="https://raw.githubusercontent.com/rossumur/Arduinocade/master/sim/docs/arduinocade_fritz_pro.png" width="50%"/>
-
 
 
 **Other GIT holding the TVout project**
