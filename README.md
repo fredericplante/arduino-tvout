@@ -60,5 +60,5 @@ https://youtu.be/MEg_V4YZDh0
 
 https://youtu.be/bHpFv_x_8Kk
 
-Wiki needs to be done!
+Wiki needs to be done: https://github.com/fredericplante/arduino-tvout/tree/wiki
 <EOF>
