@@ -28,6 +28,13 @@ nootropic design, the Video Experimenter: http://nootropicdesign.com/ve/
 
 <img src="http://nootropicdesign.com/ve/images/videoExperimenter_01_320x240.jpg" width="50%"/>
 
+**Related project that are not powered by the TVout library**
+
+rossumur's Arduinocade: https://github.com/rossumur/Arduinocade 
+
+<img src="https://raw.githubusercontent.com/rossumur/Arduinocade/master/sim/docs/arduinocade_fritz_pro.png" width="50%"/>
+
+
 You can add your design here if you also have a disign for the TVout project.
 
 
