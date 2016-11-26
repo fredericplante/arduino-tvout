@@ -28,5 +28,7 @@ nootropic design, the Video Experimenter: http://nootropicdesign.com/ve/
 
 <img src="http://nootropicdesign.com/ve/images/videoExperimenter_01_320x240.jpg" width="50%"/>
 
+You can add your design here if you also have a disign for the TVout project.
+
 
 Wiki needs to be done!
