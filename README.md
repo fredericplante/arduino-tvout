@@ -45,6 +45,9 @@ rossumur's Arduinocade: https://github.com/rossumur/Arduinocade
 
 Avamander: https://github.com/Avamander/arduino-tvout
 
+Paul Scott: https://github.com/paulscott56/arduino-tvout
+
+
 **Article touching the TVout project**
 
 Paul Scott on hackster.io https://www.hackster.io/paulscott56/arduino-tv-out-cable-64de69
