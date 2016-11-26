@@ -10,7 +10,7 @@ from code.google.com/p/arduino-tvout
 
 #**Pin definition**
 
-<img src="https://github.com/fredericplante/arduino-tvout/blob/master/tvpin.JPG" width="50%"/>
+<img src="https://github.com/fredericplante/arduino-tvout/blob/master/picture/tvpin.JPG" width="50%"/>
 
 There are some timing issues with the m1284p, may be related to sanguino core.
 
