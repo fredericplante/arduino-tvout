@@ -40,6 +40,10 @@ rossumur's Arduinocade: https://github.com/rossumur/Arduinocade
 
 Feel free to add your design(picture and link) here if you also have an interesting design for the TVout project.
 
+**Other GIT holding the TVout project**
+
+Avamander: https://github.com/Avamander/arduino-tvout
+
 ##Examples
 
 https://youtu.be/MEg_V4YZDh0
